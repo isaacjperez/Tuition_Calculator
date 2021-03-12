@@ -7,6 +7,7 @@ import java.text.NumberFormat;
 
 public class TuitionCalculator extends JFrame implements ActionListener {
 
+
     private JTextArea outputArea;
     private JButton calcButton;
     private JFormattedTextField costPerCreditHourField;
